@@ -20,6 +20,3 @@ _Type of dishes_:
 
 
 
-
-**_wireframe_**
-![screenShot](./images/Screenshot%20(2749).png)
